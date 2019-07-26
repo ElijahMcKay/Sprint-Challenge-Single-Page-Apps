@@ -12,14 +12,15 @@ function LocationsList() {
     axios.get('https://rickandmortyapi.com/api/location/')
     .then(response => {
       console.log('Success', response)
+     
       setData(response.data.results);
+
     })
     .catch(error => {
       console.log('Something went wrong:', error); 
     })  
-
     
-  }, [data]) 
+  }, [])
 
   return (
     <section className='character-list grid-view'>

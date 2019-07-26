@@ -19,7 +19,7 @@ function EpisodeList() {
     })  
 
     
-  }, [data])  
+  }, [])  
 
   return (
     <section className='character-list grid-view'>
@@ -33,7 +33,7 @@ function EpisodeList() {
         ))}
     </section>
 
-  )
+  ) 
 }
 
 export default EpisodeList; 
