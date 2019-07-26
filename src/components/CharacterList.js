@@ -22,8 +22,6 @@ function CharacterList() {
     
   }, []) 
 
-  console.log(data)
-
   return (
     <section className='character-list grid-view'>
       {data.map(obj => (

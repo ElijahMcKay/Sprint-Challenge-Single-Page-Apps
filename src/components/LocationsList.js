@@ -19,9 +19,7 @@ function LocationsList() {
     })  
 
     
-  }, []) 
-
-  console.log(data)
+  }, [data]) 
 
   return (
     <section className='character-list grid-view'>
