@@ -19,7 +19,7 @@ function EpisodeList() {
     })  
 
     
-  }, [data]) 
+  }, [data])  
 
   return (
     <section className='character-list grid-view'>
