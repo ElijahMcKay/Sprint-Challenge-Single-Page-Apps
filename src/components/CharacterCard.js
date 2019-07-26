@@ -2,7 +2,7 @@ import React from 'react'
 
 function CharacterCard (props) {
 
-  console.log(props); 
+  // console.log(props); 
   return (
     <div>
       <img src={props.pfp} alt={`${props.name}`}/>  
