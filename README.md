@@ -16,7 +16,7 @@ You have **three hours to complete** this challenge. **Plan your time accordingl
 
 In case you ever need to return to old code. Remember your **ABC: Always Be Committing!**
 
-## Description
+## Description 
 
 In this challenge, you will create a Single Page Application complete with Client-Side Routing. It must consume a 3rd party API service (based on the TV show [Rick and Morty](https://rickandmortyapi.com/documentation).)
 
