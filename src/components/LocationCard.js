@@ -20,10 +20,7 @@ export default function LocationCard (props) {
         </Card.Description>
       </Card.Content>
       <Card.Content extra>
-        <a>
-          <Icon name='user' />
           {`Residents: ${props.residents.length}`}
-        </a>
       </Card.Content>
     </Card>
   )
