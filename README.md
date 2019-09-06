@@ -16,7 +16,7 @@ You have **three hours to complete** this challenge. **Plan your time accordingl
 
 In case you ever need to return to old code. Remember your **ABC: Always Be Committing!**
 
-## Description
+## Description 
 
 In this challenge, you will create a Single Page Application complete with Client-Side Routing. It must consume a 3rd party API service (based on the TV show [Rick and Morty](https://rickandmortyapi.com/documentation).)
 
@@ -25,13 +25,13 @@ In this challenge, you will create a Single Page Application complete with Clien
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
 - [ ] Explain benefit(s) using `client-side routing`?
-> Answer:
+> Answer: You load all necessary data at one time vs reloading every time you use navigation
 - [ ] What does AJAX stand for?
-> Answer:
+> Answer: asynchronous JavaScript and XML
 - [ ] What are `controlled components` in React?
-> Answer:
+> Answer: components where whatever the user is doing must be validated, they cannot input/do whatever they want 
 - [ ] Name three tools/libraries for making AJAX requests.
-> Answer:
+> Answer: axios, fetch, jquery 
 
 
 ## Project Set Up
